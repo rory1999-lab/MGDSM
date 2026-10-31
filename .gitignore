@@ -3,6 +3,12 @@
 !/.gitignore
 !/README.md
 !/requirements.txt
+!/demo_forward.py
 !/mgdsm/
 !/mgdsm/__init__.py
 !/mgdsm/model.py
+!/mgdsm/config.py
+!/mgdsm/graph_utils.py
+!/mgdsm/distributions.py
+!/tests/
+!/tests/test_model_components.py
