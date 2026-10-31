@@ -1,0 +1,8 @@
+# Only the reviewed preliminary-release files may be added.
+*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/mgdsm/
+!/mgdsm/__init__.py
+!/mgdsm/model.py
